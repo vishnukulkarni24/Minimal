@@ -28,5 +28,3 @@ Vishnu Kulkarni
 GitHub: [vishnukulkarni24](https://github.com/vishnukulkarni24)
 
 **License:** MIT
-
-Would you like me to make this short version slightly formatted for GitHub (with emojis and headers)? It’ll look more polished visually.
